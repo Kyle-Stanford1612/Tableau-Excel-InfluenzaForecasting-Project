@@ -3,7 +3,7 @@ This repository contains my Excel files and Tableau dashboards for a student pro
 
 ## Project Context:
 
-https://github.com/Kyle-Stanford1612/Tableau-Excel-InfluenzaForecasting-Project/blob/main/Dashboard%20-%20Vulnerable%20Population%20Map.png?raw=true
+![image](https://github.com/Kyle-Stanford1612/Tableau-Excel-InfluenzaForecasting-Project/blob/main/Dashboard%20-%20Vulnerable%20Population%20Map.png?raw=true)
 
 A medical staffing agency, responsible for providing temporary workers to hospitals on an as-needed basis, requires assistance in planning for influenza season.
 
