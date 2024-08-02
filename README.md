@@ -23,9 +23,19 @@ A medical staffing agency, responsible for providing temporary workers to hospit
 
 ● [Population data by geography, time, age, and gender](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - From the US Census Bureau
 
+**Excel** and **Tableau Public** were used throughout this project.
+
 ## Folders:
 
+Project files are stored using the following folder structure:
 
+● *1. Project Management*: Contains project brief, early planning/management documentation, and data sourcing documentation.
+
+● *2. Original Data*: Contains original data files from the CDC and US Census Bureau
+
+● *3. Data Prep and Analysis*: Contains Excel files documenting data cleaning, integration, and statistical hypothesis testing. Also contains pdfs of processes that lead to the development of Tableau visualisations.
+
+● *4, Sent to Client*: Contains interim report and links to deliverables (these links are the same as the links below).
 
 ## Deliverables:
 
