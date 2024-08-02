@@ -21,6 +21,7 @@ A medical staffing agency, responsible for providing temporary workers to hospit
 2 datasets were used throughout this project:
 
 ● [Influenza deaths by geography](https://coach-courses-us.s3.amazonaws.com/public/courses/da_program/CDC_Influenza_Deaths_edited.xlsx) - From the CDC
+
 ● [Population data by geography, time, age, and gender](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv) - From the US Census Bureau
 
 ## Folders:
@@ -28,5 +29,7 @@ A medical staffing agency, responsible for providing temporary workers to hospit
 
 
 ## Deliverables:
+
 The link to the final Tableau Storyboard can be accessed [here](https://public.tableau.com/shared/BW6HN3N3F?:display_count=n&:origin=viz_share_link).
+
 The link to the video presentation given to the medical staffing executives can be accessed [here](https://youtu.be/tb1vPY0a3ug).
