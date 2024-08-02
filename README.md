@@ -35,7 +35,7 @@ Project files are stored using the following folder structure:
 
 ● *3. Data Prep and Analysis*: Contains Excel files documenting data cleaning, integration, and statistical hypothesis testing. Also contains pdfs of processes that lead to the development of Tableau visualisations.
 
-● *4, Sent to Client*: Contains interim report and links to deliverables (these links are the same as the links below).
+● *4. Sent to Client*: Contains interim report and links to deliverables (these links are the same as the links below).
 
 ## Deliverables:
 
